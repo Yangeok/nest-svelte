@@ -4,3 +4,4 @@ dist
 .rollup.cache
 
 .DS_Store
+.vscode

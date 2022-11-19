@@ -1,0 +1,7 @@
+{
+  "extends": "@tsconfig/svelte/tsconfig.json",
+  "compilerOptions": {
+    "target": "ES2019",
+  },
+  "lib": ["ES2019", "DOM"],
+}
